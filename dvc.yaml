@@ -1,0 +1,4 @@
+artifacts:
+  myfmmodel:
+    path: myfmmodel
+    type: model
