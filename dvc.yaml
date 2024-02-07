@@ -2,3 +2,6 @@ artifacts:
   myfmmodel:
     path: myfmmodel
     type: model
+  model:
+    path: model.h5
+    type: model
